@@ -1,5 +1,8 @@
 import os
 import re
+import networkx as nx
+import numpy as np
+import matplotlib.pyplot as plt
 import Sommet.py
 import Arc.py
 
@@ -104,3 +107,4 @@ class Graph:
         fonction d'affichage du graph (recursif)
         :return: ...
         """
+
