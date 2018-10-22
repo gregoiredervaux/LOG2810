@@ -9,7 +9,7 @@ class Sommet:
     """
 
     id = 0
-    type = "None"
+    type = 'None'
 
     def __init__(self, type):
         """Constructeur
@@ -19,7 +19,7 @@ class Sommet:
         return: objet Sommet avec le type specifie en entree, et l'id qui correspond à l'ancien sommet + 1
         """
         self.id += 1
-        if (type != "0" and type != "1"):
+        if (type != '0' and type != '1'):
             raise Exception('le type (2eme parametre) doit etre egale a 0 (pas de borne elec) ou a 1 (borne elec). Ici, type = {}'.format(type))
 
         else:
@@ -35,7 +35,8 @@ class Sommet:
                     return: objet Sommet avec le type, et l'id specifies en entree
                 """
         self.id= id
-        if (type != "0" and type != "1"):
+        if (type != '0' and type != '1'):
+            print(type)
             raise Exception('le type (2eme parametre) doit etre egale a 0 (pas de borne elec) ou a 1 (borne elec). Ici, type = {}'.format(type))
 
 
@@ -46,8 +47,7 @@ class Sommet:
         return(self.type)
 
     def set_type(self, new_type):
-        if (new_type != "0" and new_type !="1"):
+        if (new_type != '0' and new_type !='1'):
             raise Exception('le type (2eme parametre) doit etre egale a 0 (pas de borne elec) ou a 1 (borne elec). Ici, type = {}'.format(type))
         else:
             self.type = new_type
-
