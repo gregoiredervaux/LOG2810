@@ -1,3 +1,4 @@
-fichier_source = open("centresLocaux.txt", "r")
-contenu=fichier_source.read().splitlines()
-print (contenu)
+import graphe
+
+graph = graphe.Graphe("centresLocaux.txt")
+graph.affichageGraph()
