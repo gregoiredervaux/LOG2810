@@ -1,0 +1,278 @@
+ nouveau affichage de graph 
+du sommet:1
+vers les sommets: 
+     id: 2
+         instance: <graphe.Sommet object at 0x7fd877a846d8>
+         x: -0.5000000000000004
+         y: -0.8660254037844384
+     id: 22
+         instance: <graphe.Sommet object at 0x7fd877a84da0>
+         x: 0.49999999999999933
+         y: -0.866025403784439
+     id: 24
+         instance: <graphe.Sommet object at 0x7fd877a84e80>
+         x: 1.0
+         y: 0.0
+     id: 25
+         instance: <graphe.Sommet object at 0x7fd877a84ef0>
+         x: 0.5000000000000003
+         y: 0.8660254037844385
+     id: 26
+         instance: <graphe.Sommet object at 0x7fd877a84f60>
+         x: -0.4999999999999994
+         y: 0.8660254037844389
+du sommet:2
+vers les sommets: 
+     id: 3
+         instance: <graphe.Sommet object at 0x7fd877a846a0>
+         x: -1.4135454576426019
+         y: -0.9067366430757995
+     id: 7
+         instance: <graphe.Sommet object at 0x7fd877a84780>
+         x: -0.39547153673234836
+         y: -1.494521895368274
+     id: 19
+         instance: <graphe.Sommet object at 0x7fd877a84c50>
+         x: 0.4781476007338049
+         y: -0.7079116908177612
+du sommet:3
+vers les sommets: 
+     id: 4
+         instance: <graphe.Sommet object at 0x7fd877a84630>
+         x: -2.0133673523305147
+         y: -0.6134119096313948
+     id: 17
+         instance: <graphe.Sommet object at 0x7fd877a84b70>
+         x: -2.0601450588584025
+         y: -2.1763750295048676
+     id: 21
+         instance: <graphe.Sommet object at 0x7fd877a84d30>
+         x: -0.5259596686380484
+         y: -1.8741879080932353
+du sommet:4
+vers les sommets: 
+     id: 5
+         instance: <graphe.Sommet object at 0x7fd877a84668>
+         x: -1.6203423206765895
+         y: -1.0938395797790648
+     id: 9
+         instance: <graphe.Sommet object at 0x7fd877a847f0>
+         x: -2.6131892470184273
+         y: -1.2132338043193076
+du sommet:5
+vers les sommets: 
+     id: 6
+         instance: <graphe.Sommet object at 0x7fd877a84748>
+         x: -0.7618935270747225
+         y: -1.1074430432706848
+du sommet:6
+vers les sommets: 
+     id: 18
+         instance: <graphe.Sommet object at 0x7fd877a84be0>
+         x: -0.3688684954207972
+         y: 0.15763424547672744
+     id: 29
+         instance: <graphe.Sommet object at 0x7fd877a860f0>
+         x: -1.5149649930783322
+         y: -0.10395480113500843
+du sommet:18
+vers les sommets: 
+     id: 11
+         instance: <graphe.Sommet object at 0x7fd877a848d0>
+         x: 0.6239784309210403
+         y: -0.2494742708805552
+     id: 12
+         instance: <graphe.Sommet object at 0x7fd877a84940>
+         x: 0.02415653623312808
+         y: 0.5506592771306527
+du sommet:11
+vers les sommets: 
+     id: 8
+         instance: <graphe.Sommet object at 0x7fd877a847b8>
+         x: 0.2309533992671141
+         y: -0.29554934163040925
+     id: 13
+         instance: <graphe.Sommet object at 0x7fd877a849b0>
+         x: 1.2238003256089516
+         y: -0.17615511709016785
+du sommet:8
+vers les sommets: 
+     id: 16
+         instance: <graphe.Sommet object at 0x7fd877a84b00>
+         x: 0.8307752939550253
+         y: -0.5691801487440941
+du sommet:16
+vers les sommets: 
+     id: 14
+         instance: <graphe.Sommet object at 0x7fd877a84a20>
+         x: 1.4305971886429365
+         y: 0.030641745943817078
+     id: 15
+         instance: <graphe.Sommet object at 0x7fd877a84a90>
+         x: 1.8206932808465877
+         y: 0.6891335655394322
+du sommet:29
+vers les sommets: 
+     id: 10
+         instance: <graphe.Sommet object at 0x7fd877a84860>
+         x: -1.58223399869037
+         y: -0.517230118031876
+     id: 27
+         instance: <graphe.Sommet object at 0x7fd877a84fd0>
+         x: -2.1729037190180462
+         y: -2.2680364590819417
+     id: 28
+         instance: <graphe.Sommet object at 0x7fd877a86080>
+         x: -1.4476959874662936
+         y: -2.5126998681247885
+du sommet:9
+vers les sommets: 
+     id: 20
+         instance: <graphe.Sommet object at 0x7fd877a84cc0>
+         x: -3.60310723390999
+         y: -2.4715475186028377
+du sommet:22
+vers les sommets: 
+     id: 23
+         instance: <graphe.Sommet object at 0x7fd877a84e10>
+         x: 0.9999999999999987
+         y: -0.3660254037844397
+ nouveau affichage de graph 
+du sommet:1
+vers les sommets: 
+     id: 2
+         instance: <graphe.Sommet object at 0x7f2407b57710>
+         x: -0.5000000000000004
+         y: -0.8660254037844384
+     id: 22
+         instance: <graphe.Sommet object at 0x7f2407b57dd8>
+         x: 0.49999999999999933
+         y: -0.866025403784439
+     id: 24
+         instance: <graphe.Sommet object at 0x7f2407b57eb8>
+         x: 1.0
+         y: 0.0
+     id: 25
+         instance: <graphe.Sommet object at 0x7f2407b57f28>
+         x: 0.5000000000000003
+         y: 0.8660254037844385
+     id: 26
+         instance: <graphe.Sommet object at 0x7f2407b57f98>
+         x: -0.4999999999999994
+         y: 0.8660254037844389
+du sommet:2
+vers les sommets: 
+     id: 3
+         instance: <graphe.Sommet object at 0x7f2407b576d8>
+         x: -1.4135454576426019
+         y: -0.9067366430757995
+     id: 7
+         instance: <graphe.Sommet object at 0x7f2407b577b8>
+         x: -0.39547153673234836
+         y: -1.494521895368274
+     id: 19
+         instance: <graphe.Sommet object at 0x7f2407b57c88>
+         x: 0.4781476007338049
+         y: -0.7079116908177612
+du sommet:3
+vers les sommets: 
+     id: 4
+         instance: <graphe.Sommet object at 0x7f2407b57668>
+         x: -2.0133673523305147
+         y: -0.6134119096313948
+     id: 17
+         instance: <graphe.Sommet object at 0x7f2407b57ba8>
+         x: -2.0601450588584025
+         y: -2.1763750295048676
+     id: 21
+         instance: <graphe.Sommet object at 0x7f2407b57d68>
+         x: -0.5259596686380484
+         y: -1.8741879080932353
+du sommet:4
+vers les sommets: 
+     id: 5
+         instance: <graphe.Sommet object at 0x7f2407b576a0>
+         x: -1.6203423206765895
+         y: -1.0938395797790648
+     id: 9
+         instance: <graphe.Sommet object at 0x7f2407b57828>
+         x: -2.6131892470184273
+         y: -1.2132338043193076
+du sommet:5
+vers les sommets: 
+     id: 6
+         instance: <graphe.Sommet object at 0x7f2407b57780>
+         x: -0.7618935270747225
+         y: -1.1074430432706848
+du sommet:6
+vers les sommets: 
+     id: 18
+         instance: <graphe.Sommet object at 0x7f2407b57c18>
+         x: -0.3688684954207972
+         y: 0.15763424547672744
+     id: 29
+         instance: <graphe.Sommet object at 0x7f2407b59128>
+         x: -1.5149649930783322
+         y: -0.10395480113500843
+du sommet:18
+vers les sommets: 
+     id: 11
+         instance: <graphe.Sommet object at 0x7f2407b57908>
+         x: 0.6239784309210403
+         y: -0.2494742708805552
+     id: 12
+         instance: <graphe.Sommet object at 0x7f2407b57978>
+         x: 0.02415653623312808
+         y: 0.5506592771306527
+du sommet:11
+vers les sommets: 
+     id: 8
+         instance: <graphe.Sommet object at 0x7f2407b577f0>
+         x: 0.2309533992671141
+         y: -0.29554934163040925
+     id: 13
+         instance: <graphe.Sommet object at 0x7f2407b579e8>
+         x: 1.2238003256089516
+         y: -0.17615511709016785
+du sommet:8
+vers les sommets: 
+     id: 16
+         instance: <graphe.Sommet object at 0x7f2407b57b38>
+         x: 0.8307752939550253
+         y: -0.5691801487440941
+du sommet:16
+vers les sommets: 
+     id: 14
+         instance: <graphe.Sommet object at 0x7f2407b57a58>
+         x: 1.4305971886429365
+         y: 0.030641745943817078
+     id: 15
+         instance: <graphe.Sommet object at 0x7f2407b57ac8>
+         x: 1.8206932808465877
+         y: 0.6891335655394322
+du sommet:29
+vers les sommets: 
+     id: 10
+         instance: <graphe.Sommet object at 0x7f2407b57898>
+         x: -1.58223399869037
+         y: -0.517230118031876
+     id: 27
+         instance: <graphe.Sommet object at 0x7f2407b59048>
+         x: -2.1729037190180462
+         y: -2.2680364590819417
+     id: 28
+         instance: <graphe.Sommet object at 0x7f2407b590b8>
+         x: -1.4476959874662936
+         y: -2.5126998681247885
+du sommet:9
+vers les sommets: 
+     id: 20
+         instance: <graphe.Sommet object at 0x7f2407b57cf8>
+         x: -3.60310723390999
+         y: -2.4715475186028377
+du sommet:22
+vers les sommets: 
+     id: 23
+         instance: <graphe.Sommet object at 0x7f2407b57e48>
+         x: 0.9999999999999987
+         y: -0.3660254037844397
